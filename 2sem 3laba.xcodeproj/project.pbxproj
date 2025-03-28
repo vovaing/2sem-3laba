@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2F5C7BF52D971B8900EA0EB3 /* functions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = functions.h; sourceTree = "<group>"; };
 		2F8AC4602D96F7AA009FE577 /* 2sem 3laba */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2sem 3laba"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8AC4632D96F7AA009FE577 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,6 +58,7 @@
 		2F8AC4622D96F7AA009FE577 /* 2sem 3laba */ = {
 			isa = PBXGroup;
 			children = (
+				2F5C7BF52D971B8900EA0EB3 /* functions.h */,
 				2F8AC4632D96F7AA009FE577 /* main.c */,
 			);
 			path = "2sem 3laba";
